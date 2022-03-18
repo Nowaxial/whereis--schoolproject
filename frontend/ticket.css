@@ -1,0 +1,210 @@
+
+
+.e2_30 { 
+	background-color:rgba(35.00000171363354, 31.000000052154064, 66.00000366568565, 1);
+	width:375px;
+	height:667px;
+	position:absolute;
+}
+.e2_37 { 
+	background-image:linear-gradient(0deg, rgba(245.00000059604645, 107.00000122189522, 154.00000602006912, 1) 0%,rgba(177.0000046491623, 52.000000700354576, 254.00000005960464, 0) 100%) ;
+	width:375px;
+	height:344px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e10_37 { 
+	box-shadow:0px 0px 32px rgba(0, 0, 0, 0.3400000035762787);
+	background-color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:450px;
+	position:absolute;
+	left:32px;
+	top:109px;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	border-bottom-left-radius:3px;
+	border-bottom-right-radius:3px;
+}
+.e2_39 { 
+	background-color:rgba(0, 0, 0, 0.029999999329447746);
+	width:311px;
+	height:120px;
+	position:absolute;
+	left:32px;
+	top:199px;
+}
+.e2_40 { 
+	background-color:rgba(0, 0, 0, 0.05999999865889549);
+	width:311px;
+	height:66px;
+	position:absolute;
+	left:32px;
+	top:313px;
+}
+.e4_2 { 
+	background-color:rgba(0, 0, 0, 0.11999999731779099);
+	width:311px;
+	height:60px;
+	position:absolute;
+	left:32px;
+	top:379px;
+}
+.e2_41 { 
+	background-color:rgba(0, 0, 0, 0.11999999731779099);
+	width:311px;
+	height:120px;
+	position:absolute;
+	left:32px;
+	top:439px;
+	/* border-radius:Symbol(figma.mixed)px; */
+}
+.WHAT { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:280px;
+	height:30px;
+	position:absolute;
+	left:48px;
+	top:109px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.WHERE { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:281px;
+	height:30px;
+	position:absolute;
+	left:47px;
+	top:199px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.FROM { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:56px;
+	height:29px;
+	position:absolute;
+	left:149px;
+	top:319px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.BARCODE { 
+
+position: absolute;
+width: 311px;
+height: 60px;
+left: 32px;
+top: 424px;
+
+font-family: 'Libre Barcode 128';
+font-style: normal;
+font-weight: 400;
+font-size: 101px;
+line-height: 101px;
+text-align: center;
+}
+
+.ticket { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:311px;
+	height:28px;
+	position:absolute;
+	left:32px;
+	top:504px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:30;
+}
+.title { 
+	color:rgba(245.00000059604645, 107.00000122189522, 154.00000602006912, 1);
+	width:281px;
+	height:43px;
+	position:absolute;
+	left:48px;
+	top:139px;
+	font-family:Sansita One;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.place { 
+	color:rgba(0, 0, 0, 0.699999988079071);
+	width:281px;
+	height:30px;
+	position:absolute;
+	left:47px;
+	top:228px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:26px;
+	letter-spacing:0;
+}
+.from { 
+	color:rgba(0, 0, 0, 0.6000000238418579);
+	width:55px;
+	height:28px;
+	position:absolute;
+	left:150px;
+	top:348px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:17px;
+	letter-spacing:0;
+}
+.WHEN { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:56px;
+	height:29px;
+	position:absolute;
+	left:48px;
+	top:319px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.date { 
+	color:rgba(0, 0, 0, 0.6000000238418579);
+	width:84px;
+	height:23px;
+	position:absolute;
+	left:49px;
+	top:348px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:17px;
+	letter-spacing:0;
+}
+.TO { 
+	color:rgba(0, 0, 0, 0.4000000059604645);
+	width:39px;
+	height:30px;
+	position:absolute;
+	left:256px;
+	top:319px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.to { 
+	color:rgba(0, 0, 0, 0.6000000238418579);
+	width:85px;
+	height:30px;
+	position:absolute;
+	left:256px;
+	top:349px;
+	font-family:Fira Sans;
+	text-align:left;
+	font-size:17px;
+	letter-spacing:0;
+}
